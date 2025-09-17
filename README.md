@@ -215,7 +215,6 @@ Create a serverless workflow where an S3 event triggers a Lambda function.
 5.  **Test the Integration:**
     * Upload any file to your source S3 bucket.
     * Go to the **Monitor** tab in your Lambda function and **View CloudWatch logs** to see the output.
-
 ---
 
 ## 5. EC2 Auto Scaling using Launch Templates and Scaling Policies
@@ -243,7 +242,6 @@ Automatically scale your EC2 instances based on demand.
     * Set **Metric type** to **Average CPU utilization**.
     * Set **Target value** to `50` (this will trigger a scale-out event if CPU exceeds 50%).
     * Review all settings and click **Create Auto Scaling group**.
-
 ---
 
 ## 6. S3 Bucket File Management and Public Access Configuration
