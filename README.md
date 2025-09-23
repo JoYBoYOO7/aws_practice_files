@@ -10,9 +10,7 @@ This guide provides concise, step-by-step instructions for performing common clo
 4.  [Serverless Computing – S3 and Lambda Integration](#4-serverless-computing--s3-and-lambda-integration)
 5.  [EC2 Auto Scaling using Launch Templates and Scaling Policies](#5-ec2-auto-scaling-using-launch-templates-and-scaling-policies)
 6.  [S3 Bucket File Management and Public Access Configuration](#6-s3-bucket-file-management-and-public-access-configuration)
-
 ---
-
 ## 1. Hosting Static Websites on AWS S3 and EC2
 
 You can host a static website using either S3 for a serverless approach or an EC2 instance for a traditional server setup.
